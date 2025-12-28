@@ -1,2 +1,2 @@
 # -storyboard-splitter2
-一个可以开放式选择裁剪方式并按照自己需求选择输出剪裁后的分镜图片的小工具，可以设置剪裁线的宽度
+A small tool that allows open-ended selection of cropping methods and outputting cropped storyboard images according to personal needs, with adjustable cropping line width.
